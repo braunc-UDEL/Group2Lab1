@@ -32,7 +32,7 @@ public class Round {
 				{
 					eGameResult = eGameResult.POINT;
 					gameOver = true;
-					break;
+					break; 
 				}
 			if (newRole.getScore() == 7)
 				{
